@@ -1,0 +1,6 @@
+{
+  "name": "BAC DZ Hub",
+  "description": "المنصة التعليمية الجزائرية الشاملة لطلاب البكالوريا - دروس، ملخصات، تمارين، مواضيع بكالوريا سابقة ومساعد ذكاء اصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
